@@ -27,3 +27,21 @@
  * Declaring the winner
      i)The player who draw the three Xs or three Os in the above combinations is declared as winner.
      ii)TO check winner I used checkwin function.
+     
+ # 5Ws and 1H
+ 
+ ## who
+  * Any casual user who know about the game rules can play the game.
+  
+ ## what
+   * Tic-Tac-Toe is simple game which can be easy to understand and play.
+ 
+ ## when
+   * when ever we are bored and want to play game we can play Tic-Tac-Toe.
+ 
+ ## where
+   * Every Individual can use this software and play the game.
+   
+ ## why
+    * By playing games we can reduce our stress.
+    * Tic-Tac-Toe game can also increase the level of thinking process.

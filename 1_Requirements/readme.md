@@ -45,3 +45,6 @@
  ## why
     * By playing games we can reduce our stress.
     * Tic-Tac-Toe game can also increase the level of thinking process.
+    
+ ## How
+    * This program can be executed in a system which has windows or linux operating system

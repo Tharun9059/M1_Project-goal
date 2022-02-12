@@ -10,3 +10,6 @@
 | 5_Report            | Documented report                                                                                               |
 | 6_Images            | Images showcasing project outputs                                                                    |
 
+* ![codiga]( https://api.codiga.io/project/31232/score/svg)
+* ![codiga]( https://api.codiga.io/project/31232/status/svg)
+

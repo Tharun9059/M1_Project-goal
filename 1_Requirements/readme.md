@@ -10,7 +10,7 @@
 ## High level Requirements
 * players should know the rules of the game.
 * create a 3 * 3 grid board.
-* Declare the winner.
+* Declare the winner
 
 ## Low level Requirements
 * Knowing the game rules

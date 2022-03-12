@@ -9,7 +9,7 @@
 | 4_TestPlanAndOutput | Details of test plans and procedure                                                                             |
 | 5_Report            | Documented report                                                                                               |
 | 6_Images            | Images showcasing project outputs                                                                    |
-
+| 7_References        | References of the code                                                                               |
 * ![codiga]( https://api.codiga.io/project/31232/score/svg)
 * ![codiga]( https://api.codiga.io/project/31232/status/svg)
 

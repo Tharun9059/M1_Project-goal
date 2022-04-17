@@ -47,4 +47,4 @@
     * Tic-Tac-Toe game can also increase the level of thinking process.
     
  ## How
-    * This program can be executed in a system which has windows or linux operating system
+    * This program can be executed in a system which has windows or linux operating system.
